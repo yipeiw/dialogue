@@ -1,0 +1,997 @@
+load resource and database successful
+Q:  Which actor you like most in movie skyfall?
+
+Understand
+[('Which', 'WDT', 1), ('actor', 'NN', 3), ('like', 'IN', 1), ('movie', 'NN', 3), ('skyfall', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.25
+Do you like Larry?
+I love Larry King.
+
+0.0833333333333
+Would you like your kids to have access free to illegal drugs?
+I think that if my -- I think my kids are very strong, they have their heads together.
+
+Q:  Who are you?
+
+Understand
+[('Who', 'WP', 1), ('?', '.', 1)]
+
+A:  [u'Who do you most admire in your business?', u'Well, Letterman being one of them.']
+
+Candidates:
+0.125
+Who do you most admire in your business?
+Well, Letterman being one of them.
+
+Q:  How many movies have you ever watched?
+
+Understand
+[('How', 'WRB', 1), ('many', 'JJ', 1), ('movies', 'NNS', 3), ('ever', 'RB', 1), ('watched', 'VBD', 1), ('?', '.', 1)]
+
+A:  [u'How many inches are you?', u"I'm not getting into that."]
+
+Candidates:
+0.4
+How many inches are you?
+I'm not getting into that.
+
+0.4
+How many have said no?
+Well, you know, listen.
+
+0.25
+Have you ever measured?
+I'm interviewing you.
+
+Q:  It is nice to talk with you today!
+
+Understand
+[('It', 'PRP', 1), ('nice', 'JJ', 1), ('talk', 'VB', 1), ('today', 'NN', 3), ('!', '.', 1)]
+
+A:  [u'It was a better deal for you?', u'A better deal.']
+
+Candidates:
+0.142857142857
+It was a better deal for you?
+A better deal.
+
+0.0714285714286
+It -- it's such a -- you ever read Bill Carter's book on it?
+Sure.
+
+Q:  How is your childhood?
+
+Understand
+[('How', 'WRB', 1), ('childhood', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'How did the boyfriends feel?', u'They seemed to be proud to show --']
+
+Candidates:
+0.2
+How did the boyfriends feel?
+They seemed to be proud to show --
+
+0.2
+How many inches are you?
+I'm not getting into that.
+
+0.2
+How many have said no?
+Well, you know, listen.
+
+Q:  Where are you born?
+
+Understand
+[('Where', 'WRB', 1), ('born', 'VBP', 1), ('?', '.', 1)]
+
+A:  [u'Where is your wife?', u"My wife's not here, luckily."]
+
+Candidates:
+0.25
+Where is your wife?
+My wife's not here, luckily.
+
+Q:  If you are in the movie, who you are willing to act?
+
+Understand
+[('If', 'IN', 1), ('movie', 'NN', 3), (',', ',', 1), ('willing', 'JJ', 1), ('act', 'VB', 1), ('?', '.', 1)]
+
+A:  [u"If you've got the money that you made, the success you've enjoyed, the status and everything that comes with it, what would motivate you to get out of bed at 3:30, 4:00 every day to carry on doing this?", u"I don't know."]
+
+Candidates:
+0.025641025641
+If you've got the money that you made, the success you've enjoyed, the status and everything that comes with it, what would motivate you to get out of bed at 3:30, 4:00 every day to carry on doing this?
+I don't know.
+
+Q:  When is your first time to watch the movie that movie?
+
+Understand
+[('When', 'WRB', 1), ('first', 'JJ', 1), ('time', 'NN', 3), ('watch', 'VB', 1), ('movie', 'NN', 3), ('movie', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'When is he starting?', u"I don't know."]
+
+Candidates:
+0.25
+When is he starting?
+I don't know.
+
+0.166666666667
+I don't know, you watch porno?
+Well no.
+
+0.125
+When is this show going off the air?
+Probably the moment this show finishes.
+
+Q:  Do you know the director of the movie xxx?
+
+Understand
+[('Do', 'NNP', 3), ('know', 'VB', 1), ('director', 'NN', 3), ('movie', 'NN', 3), ('xxx', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.75
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  You want actor X or actor Y to be your girlfriend?
+
+Understand
+[('You', 'PRP', 1), ('want', 'VBP', 1), ('actor', 'NN', 3), ('X', 'NNP', 3), ('actor', 'NN', 3), ('Y', 'NNP', 3), ('girlfriend', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"You didn't?", u'No, I never took a pay cut.']
+
+Candidates:
+0.5
+You didn't?
+No, I never took a pay cut.
+
+0.333333333333
+You never cheated?
+No.
+
+0.285714285714
+You want to really get into this?
+I do.
+
+Q:  How are you?
+
+Understand
+[('How', 'WRB', 1), ('?', '.', 1)]
+
+A:  [u'How did the boyfriends feel?', u'They seemed to be proud to show --']
+
+Candidates:
+0.2
+How did the boyfriends feel?
+They seemed to be proud to show --
+
+0.2
+How many inches are you?
+I'm not getting into that.
+
+0.2
+How many have said no?
+Well, you know, listen.
+
+Q:  Do you know any jokes?
+
+Understand
+[('Do', 'NNP', 3), ('know', 'VB', 1), ('jokes', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.75
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  What do you do for fun?
+
+Understand
+[('What', 'WP', 1), ('fun', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  Did you see the Oscars last night?
+
+Understand
+[('Did', 'NNP', 3), ('see', 'VB', 1), ('Oscars', 'NNP', 3), ('last', 'JJ', 1), ('night', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Did he ever tell you that he loves you?', u'Yes.']
+
+Candidates:
+0.333333333333
+Did he ever tell you that he loves you?
+Yes.
+
+0.1
+More or less than the last deal, as a salary?
+I would say it's about the same.
+
+0.0769230769231
+And when you see Miley Cyrus, Justin Bieber dominate, what do you think?
+I love watching these -- like Miley Cyrus grow up and then start taking all her clothes off.
+
+Q:  What's your favorite movie?
+
+Understand
+[('What', 'WP', 1), ("'s", 'VBZ', 1), ('favorite', 'JJ', 1), ('movie', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  What kind of movies do you like?
+
+Understand
+[('What', 'WP', 1), ('kind', 'NN', 3), ('movies', 'NNS', 3), ('like', 'IN', 1), ('?', '.', 1)]
+
+A:  [u'Even though you went through that kind of experience?', u'But for myself, I do not -']
+
+Candidates:
+0.333333333333
+Even though you went through that kind of experience?
+But for myself, I do not -
+
+0.25
+Do you like Larry?
+I love Larry King.
+
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+Q:  Where are you from?
+
+Understand
+[('Where', 'WRB', 1), ('?', '.', 1)]
+
+A:  [u'Where is your wife?', u"My wife's not here, luckily."]
+
+Candidates:
+0.25
+Where is your wife?
+My wife's not here, luckily.
+
+Q:  What did you think of Jennifer Lawrence's dress?
+
+Understand
+[('What', 'WP', 1), ('think', 'VBP', 1), ('Jennifer', 'NNP', 3), ('Lawrence', 'NNP', 3), ("'s", 'POS', 1), ('dress', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.285714285714
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.181818181818
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+Q:  Are you religious?
+
+Understand
+[('Are', 'NNP', 3), ('religious', 'VBZ', 1), ('?', '.', 1)]
+
+A:  [u'Are you?', u'Yes.']
+
+Candidates:
+1.5
+Are you?
+Yes.
+
+1.0
+Are you really?
+Yes.
+
+0.5
+Are you -- are you romantic?
+Yes, I think so.
+
+Q:  Do you have any plans this weekend?
+
+Understand
+[('Do', 'NNP', 3), ('plans', 'NNS', 3), ('weekend', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.75
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  So, what's up?
+
+Understand
+[('So', 'IN', 1), (',', ',', 1), ("'s", 'VBZ', 1), ('?', '.', 1)]
+
+A:  [u'So as his friend, though, when it backfires, did you feel uneasy about it?', u'I wrote him an e-mail immediately.']
+
+Candidates:
+0.0714285714286
+So as his friend, though, when it backfires, did you feel uneasy about it?
+I wrote him an e-mail immediately.
+
+Q:  Matthew McConaughey won an oscar this year, have you seen his other movies?
+
+Understand
+[('Matthew', 'NNP', 3), ('McConaughey', 'NNP', 3), ('won', 'VBD', 1), ('oscar', 'NN', 3), ('year', 'NN', 3), (',', ',', 1), ('seen', 'VBN', 1), ('movies', 'NNS', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Did you like the Godfather?
+
+Understand
+[('Did', 'NNP', 3), ('like', 'IN', 1), ('Godfather', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Did he ever tell you that he loves you?', u'Yes.']
+
+Candidates:
+0.333333333333
+Did he ever tell you that he loves you?
+Yes.
+
+0.25
+Do you like Larry?
+I love Larry King.
+
+0.0833333333333
+Would you like your kids to have access free to illegal drugs?
+I think that if my -- I think my kids are very strong, they have their heads together.
+
+Q:  Hasta la vista baby
+
+Understand
+[('Hasta', 'NNP', 3), ('la', 'NN', 3), ('vista', 'NN', 3), ('baby', 'NN', 3)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  What's your favourite movie quote?
+
+Understand
+[('What', 'WP', 1), ("'s", 'VBZ', 1), ('favourite', 'JJ', 1), ('movie', 'NN', 3), ('quote', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  What's your favourite character?
+
+Understand
+[('What', 'WP', 1), ("'s", 'VBZ', 1), ('favourite', 'JJ', 1), ('character', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  Schwarzenegger or Stalone?
+
+Understand
+[('Schwarzenegger', 'NNP', 3), ('Stalone', 'NNP', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Who would win in a fight, Jackie Chan or Jean Claude van Damme?
+
+Understand
+[('Who', 'WP', 1), ('would', 'MD', 1), ('win', 'VB', 1), ('fight', 'NN', 3), (',', ',', 1), ('Jackie', 'NNP', 3), ('Chan', 'NNP', 3), ('Jean', 'NNP', 3), ('Claude', 'NNP', 3), ('van', 'NNP', 3), ('Damme', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Who do you most admire in your business?', u'Well, Letterman being one of them.']
+
+Candidates:
+0.125
+Who do you most admire in your business?
+Well, Letterman being one of them.
+
+0.0434782608696
+Well what's been -- what's been the moment in your life which, if you had five minutes to live, you would have again?
+Oh.
+
+0.025641025641
+If you've got the money that you made, the success you've enjoyed, the status and everything that comes with it, what would motivate you to get out of bed at 3:30, 4:00 every day to carry on doing this?
+I don't know.
+
+Q:  Did you like Schwarzenegger as governor of California?
+
+Understand
+[('Did', 'NNP', 3), ('like', 'IN', 1), ('Schwarzenegger', 'NNP', 3), ('governor', 'NN', 3), ('California', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Did he ever tell you that he loves you?', u'Yes.']
+
+Candidates:
+0.333333333333
+Did he ever tell you that he loves you?
+Yes.
+
+0.25
+Do you like Larry?
+I love Larry King.
+
+0.0833333333333
+Would you like your kids to have access free to illegal drugs?
+I think that if my -- I think my kids are very strong, they have their heads together.
+
+Q:  Do you know how many cars Jay Lano has? Which one do you like more?
+
+Understand
+[('Do', 'NNP', 3), ('know', 'VB', 1), ('many', 'JJ', 1), ('cars', 'NNS', 3), ('Jay', 'NNP', 3), ('Lano', 'NNP', 3), ('?', '.', 1), ('Which', 'NNP', 3), ('one', 'CD', 1), ('like', 'IN', 1), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+1.0
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  Did Piers Morgan ever interview Jordan Belfort?
+
+Understand
+[('Did', 'NNP', 3), ('Piers', 'NNP', 3), ('Morgan', 'NNP', 3), ('ever', 'RB', 1), ('interview', 'VB', 1), ('Jordan', 'NNP', 3), ('Belfort', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Did he ever tell you that he loves you?', u'Yes.']
+
+Candidates:
+0.444444444444
+Did he ever tell you that he loves you?
+Yes.
+
+0.25
+Have you ever measured?
+I'm interviewing you.
+
+0.2
+Have you ever taken Viagra?
+Never.
+
+Q:  How long did Jordan Belfort spend in jail?
+
+Understand
+[('How', 'WRB', 1), ('long', 'JJ', 1), ('did', 'NN', 3), ('Jordan', 'NNP', 3), ('Belfort', 'NNP', 3), ('spend', 'NN', 3), ('jail', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'How did the boyfriends feel?', u'They seemed to be proud to show --']
+
+Candidates:
+0.8
+How did the boyfriends feel?
+They seemed to be proud to show --
+
+0.545454545455
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+0.3
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+Q:  Who is the inspiration of Leonardo Dicaprio's character in Wolf of Wall Street?
+
+Understand
+[('Who', 'WP', 1), ('inspiration', 'NN', 3), ('Leonardo', 'NNP', 3), ('Dicaprio', 'NNP', 3), ("'s", 'POS', 1), ('character', 'NN', 3), ('Wolf', 'NNP', 3), ('Wall', 'NNP', 3), ('Street', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Who do you most admire in your business?', u'Well, Letterman being one of them.']
+
+Candidates:
+0.125
+Who do you most admire in your business?
+Well, Letterman being one of them.
+
+Q:  Did Leonardo Dicaprio won the Oscar award?
+
+Understand
+[('Did', 'NNP', 3), ('Leonardo', 'NNP', 3), ('Dicaprio', 'NNP', 3), ('won', 'VBD', 1), ('Oscar', 'NNP', 3), ('award', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Did he ever tell you that he loves you?', u'Yes.']
+
+Candidates:
+0.333333333333
+Did he ever tell you that he loves you?
+Yes.
+
+Q:  How long is the movie Wolf of Wall Street?
+
+Understand
+[('How', 'WRB', 1), ('long', 'JJ', 1), ('movie', 'NN', 3), ('Wolf', 'NNP', 3), ('Wall', 'NNP', 3), ('Street', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'How did the boyfriends feel?', u'They seemed to be proud to show --']
+
+Candidates:
+0.2
+How did the boyfriends feel?
+They seemed to be proud to show --
+
+0.2
+How many inches are you?
+I'm not getting into that.
+
+0.2
+How many have said no?
+Well, you know, listen.
+
+Q:  What is the IMDB rating of Wolf of Wall Street?
+
+Understand
+[('What', 'WP', 1), ('IMDB', 'NNP', 3), ('rating', 'NN', 3), ('Wolf', 'NNP', 3), ('Wall', 'NNP', 3), ('Street', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  Who won the Best Actor Oscar award in ?
+
+Understand
+[('Who', 'WP', 1), ('won', 'VBD', 1), ('Best', 'NNP', 3), ('Actor', 'NNP', 3), ('Oscar', 'NNP', 3), ('award', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Who do you most admire in your business?', u'Well, Letterman being one of them.']
+
+Candidates:
+0.125
+Who do you most admire in your business?
+Well, Letterman being one of them.
+
+Q:  Which movie is the Best Picture in the th Academy Awards?
+
+Understand
+[('Which', 'WDT', 1), ('movie', 'NN', 3), ('Best', 'NNP', 3), ('Picture', 'NNP', 3), ('th', 'NN', 3), ('Academy', 'NNP', 3), ('Awards', 'NNP', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Who is the director of  Years a Slave?
+
+Understand
+[('Who', 'WP', 1), ('director', 'NN', 3), ('Years', 'NNP', 3), ('Slave', 'NNP', 3), ('?', '.', 1)]
+
+A:  [u'Who do you most admire in your business?', u'Well, Letterman being one of them.']
+
+Candidates:
+0.125
+Who do you most admire in your business?
+Well, Letterman being one of them.
+
+Q:  What did President Obama do with the Crimea crisis?
+
+Understand
+[('What', 'WP', 1), ('President', 'NNP', 3), ('Obama', 'NNP', 3), ('Crimea', 'NNP', 3), ('crisis', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  What was the last fiction you have acted in?
+
+Understand
+[('What', 'WP', 1), ('last', 'JJ', 1), ('fiction', 'NN', 3), ('acted', 'VBN', 1), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+0.1
+What are you thoughts when you look at that picture?
+Well, Beth is my best friend.
+
+Q:  Don’t you think your role is too insignificant in your upcoming movie?
+
+Understand
+[('Don\xe2\x80\x99t', 'JJ', 1), ('think', 'VBP', 1), ('role', 'NN', 3), ('insignificant', 'JJ', 1), ('upcoming', 'NN', 3), ('movie', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.0909090909091
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+Q:  Aren’t you ashamed of your role from your latest movie?
+
+Understand
+[('Aren\xe2\x80\x99t', 'JJ', 1), ('ashamed', 'VBD', 1), ('role', 'NN', 3), ('latest', 'JJS', 1), ('movie', 'NN', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Why do you even think that you stand any chance at oscars?
+
+Understand
+[('Why', 'WRB', 1), ('even', 'RB', 1), ('think', 'VBP', 1), ('stand', 'VBP', 1), ('chance', 'NN', 3), ('oscars', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u'Why are you shocked by that?', u"ORGAN: It's a kind of contradiction."]
+
+Candidates:
+0.166666666667
+Why are you shocked by that?
+ORGAN: It's a kind of contradiction.
+
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.0909090909091
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+Q:  Are you looking for alternative occupations?
+
+Understand
+[('Are', 'NNP', 3), ('looking', 'VBG', 1), ('alternative', 'JJ', 1), ('occupations', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u'Are you?', u'Yes.']
+
+Candidates:
+1.5
+Are you?
+Yes.
+
+1.0
+Are you really?
+Yes.
+
+0.5
+Are you -- are you romantic?
+Yes, I think so.
+
+Q:  Don’t you think a puppet acts better than you?
+
+Understand
+[('Don\xe2\x80\x99t', 'JJ', 1), ('think', 'VBP', 1), ('puppet', 'NN', 3), ('acts', 'VBZ', 1), ('better', 'JJR', 1), ('?', '.', 1)]
+
+A:  [u'It was a better deal for you?', u'A better deal.']
+
+Candidates:
+0.142857142857
+It was a better deal for you?
+A better deal.
+
+0.142857142857
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.0909090909091
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+Q:  Why do you always mumble your lines?
+
+Understand
+[('Why', 'WRB', 1), ('always', 'RB', 1), ('mumble', 'JJ', 1), ('lines', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u"You're always being faithful?", u"I've been faithful."]
+
+Candidates:
+0.25
+You're always being faithful?
+I've been faithful.
+
+0.166666666667
+Why are you shocked by that?
+ORGAN: It's a kind of contradiction.
+
+Q:  According to you which actors are worse compared to you?
+
+Understand
+[('According', 'VBG', 1), ('actors', 'NNS', 3), ('worse', 'RB', 1), ('compared', 'VBN', 1), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Tell me five films in which you have managed to utter your lines properly
+
+Understand
+[('Tell', 'NNP', 3), ('five', 'CD', 1), ('films', 'NNS', 3), ('managed', 'VBN', 1), ('utter', 'VB', 1), ('lines', 'NNS', 3), ('properly', 'RB', 1)]
+
+A:  [u"Well what's been -- what's been the moment in your life which, if you had five minutes to live, you would have again?", u'Oh.']
+
+Candidates:
+0.0434782608696
+Well what's been -- what's been the moment in your life which, if you had five minutes to live, you would have again?
+Oh.
+
+Q:  How many hate clubs do you have?
+
+Understand
+[('How', 'WRB', 1), ('many', 'JJ', 1), ('hate', 'JJ', 1), ('clubs', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u'How many inches are you?', u"I'm not getting into that."]
+
+Candidates:
+0.4
+How many inches are you?
+I'm not getting into that.
+
+0.4
+How many have said no?
+Well, you know, listen.
+
+0.2
+How did the boyfriends feel?
+They seemed to be proud to show --
+
+Q:  What did you think of the oscars?
+
+Understand
+[('What', 'WP', 1), ('think', 'VBP', 1), ('oscars', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u"What do you think it's come to?", u'I think America is the greatest country in the world.']
+
+Candidates:
+0.285714285714
+What do you think it's come to?
+I think America is the greatest country in the world.
+
+0.181818181818
+What did you think of what he did to Conan O'Brien?
+And as far -- he did a terrible thing to Conan O'Brien.
+
+0.1
+What did you say to them when you examined them?
+TERN: I said -- well, I said, they're beautiful.
+
+Q:  Tell me a knock knock joke!
+
+Understand
+[('Tell', 'NNP', 3), ('knock', 'NN', 3), ('knock', 'NN', 3), ('joke', 'NN', 3), ('!', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Do you think Matthew McConaughey deserved the oscar?
+
+Understand
+[('Do', 'NNP', 3), ('think', 'VBP', 1), ('Matthew', 'NNP', 3), ('McConaughey', 'NNP', 3), ('deserved', 'VBD', 1), ('oscar', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.75
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  Do you only know stuff about the oscars? Can I ask you questions on random topics?
+
+Understand
+[('Do', 'NNP', 3), ('know', 'VBP', 1), ('stuff', 'NN', 3), ('oscars', 'NNS', 3), ('?', '.', 1), ('Can', 'NNP', 3), ('I', 'PRP', 1), ('ask', 'VBP', 1), ('questions', 'NNS', 3), ('random', 'NN', 3), ('topics', 'NNS', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+0.75
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  Have you watched  years a slave?
+
+Understand
+[('Have', 'NNP', 3), ('watched', 'VBD', 1), ('years', 'NNS', 3), ('slave', 'JJ', 1), ('?', '.', 1)]
+
+A:  [u'Have you ever measured?', u"I'm interviewing you."]
+
+Candidates:
+0.75
+Have you ever measured?
+I'm interviewing you.
+
+0.6
+Have you ever taken Viagra?
+Never.
+
+0.5
+Have you ever taken any drug?
+Oh, yes, I've had a history with drugs.
+
+Q:  Can you show emotion when you watch an emotional movie?
+
+Understand
+[('Can', 'NNP', 3), ('show', 'VBP', 1), ('emotion', 'NN', 3), ('watch', 'VBP', 1), ('emotional', 'JJ', 1), ('movie', 'NN', 3), ('?', '.', 1)]
+
+A:  [u"I don't know, you watch porno?", u'Well no.']
+
+Candidates:
+0.166666666667
+I don't know, you watch porno?
+Well no.
+
+0.125
+When is this show going off the air?
+Probably the moment this show finishes.
+
+0.016393442623
+Once your dad's called you a genius, you've had all the success and the money, I'm curios as to what makes you, Howard Stern, at 4:00 in the morning, when everyone else is asleep, say, getting out of bed and I'm going to back into battle on the show that often drives me crazy, I'm not even sure I enjoy it?
+I think it's my identity.
+
+Q:  Whats your opinion on Leonardo DiCaprio missing out on the oscar?
+
+Understand
+[('Whats', 'NNS', 3), ('opinion', 'NN', 3), ('Leonardo', 'NNP', 3), ('DiCaprio', 'NNP', 3), ('missing', 'NN', 3), ('oscar', 'NN', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  Do you like your name?
+
+Understand
+[('Do', 'NNP', 3), ('like', 'IN', 1), ('name', 'NN', 3), ('?', '.', 1)]
+
+A:  [u'Do you like Larry?', u'I love Larry King.']
+
+Candidates:
+1.0
+Do you like Larry?
+I love Larry King.
+
+0.5
+Do they listen to the show?
+I think -- my parents listen every day.
+
+0.5
+Do you worry about getting old?
+No.
+
+Q:  Can you speak in different voices?
+
+Understand
+[('Can', 'NNP', 3), ('speak', 'VBP', 1), ('different', 'JJ', 1), ('voices', 'NNS', 3), ('?', '.', 1)]
+
+A:  Ok. Tell me more about yourself.
+
+Candidates:
+Q:  I'm bored. Tell me something interesting!
+
+Understand
+[('I', 'PRP', 1), ("'m", 'VBP', 1), ('bored.', 'NNP', 3), ('Tell', 'NNP', 3), ('something', 'NN', 3), ('interesting', 'VBG', 1), ('!', '.', 1)]
+
+A:  [u"I don't know, you watch porno?", u'Well no.']
+
+Candidates:
+0.166666666667
+I don't know, you watch porno?
+Well no.
+
+0.142857142857
+I mean, wasn't it just business, really?
+No.
+
+0.111111111111
+I want to have a third show, all right?
+Listen, I like you.
+

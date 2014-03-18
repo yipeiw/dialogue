@@ -1,0 +1,11 @@
+current,next,reach_goal,in_topic,act
+start,greeting,0,0,all
+greeting,engage,0,0,all
+engage,topicQ,0,0,all
+engage,topicA,0,1,ques
+engage,off,0,0,all
+off,engage,0,0,all
+topicA,engage,0,1,all
+topicQ,engage,0,1,all
+all,end,1,-1,all
+end,start,1,-1,all
