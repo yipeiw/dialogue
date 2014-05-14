@@ -1,0 +1,6 @@
+Question	Did Piers Morgan ever interview Jordan Belfort?
+Anwser1	I'm on Piers Morgan today.	0.500	A
+Anwser2	Doing the Piers Morgan interview.	0.500	A
+Anwser3	Doing a Piers Morgan interview.	0.500	A
+Anwser4	You know what, very interesting.	0.462	Q
+Anwser5	Yes.	0.400	Q

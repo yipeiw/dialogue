@@ -1,0 +1,5 @@
+Question	Don’t you think a puppet acts better than you?
+Anwser1	She really did.	0.154	Q
+Anwser2	Well, yes, I think age has a lot to do with that, you know.	0.154	Q
+Anwser3	Well, yes.	0.154	Q
+Anwser4	I think that's a better question for you.	0.154	A

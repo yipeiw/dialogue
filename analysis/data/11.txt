@@ -1,0 +1,6 @@
+Question	You want actor X or actor Y to be your girlfriend?
+Anwser1	Absolutely.	0.235	Q
+Anwser2	Oh, yeah.	0.231	Q
+Anwser3	It starts with craft.	0.222	Q
+Anwser4	I think Katherine Hepburn could play the leading lady.	0.214	Q
+Anwser5	No, he's an actor named John Hamm.	0.214	A

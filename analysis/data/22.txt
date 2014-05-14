@@ -1,0 +1,6 @@
+Question	So, what's up?
+Anwser1	Well, so far, so good.	0.250	A
+Anwser2	Yes, I say actress, too.	0.167	Q
+Anwser3	I'm so excited.	0.167	A
+Anwser4	It's so awkward.	0.167	A
+Anwser5	Well, you know, I think so far so good.	0.167	A

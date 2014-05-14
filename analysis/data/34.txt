@@ -1,0 +1,6 @@
+Question	Who is the inspiration of Leonardo Dicaprio's character in Wolf of Wall Street?
+Anwser1	Yeah.	0.316	Q
+Anwser2	She came to Wall Street and she sang for the Sarah Ferguson Foundation.	0.273	A
+Anwser3	I think what you realized about Wall Street is these people are professional traders.	0.261	A
+Anwser4	Well, certainly the Wall Street Journal and the New York Post just the big two.	0.250	A
+Anwser5	The character would tongue-kiss.	0.231	A

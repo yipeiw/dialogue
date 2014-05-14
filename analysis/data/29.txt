@@ -1,0 +1,6 @@
+Question	Who would win in a fight, Jackie Chan or Jean Claude van Damme?
+Anwser1	I don't know.	0.200	Q
+Anwser2	They have been known to fight each other.	0.188	Q
+Anwser3	Because I can't fight it.	0.188	A
+Anwser4	Our fight isn't against guns.	0.188	A
+Anwser5	Absolutely.	0.176	Q

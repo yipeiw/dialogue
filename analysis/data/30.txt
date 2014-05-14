@@ -1,0 +1,6 @@
+Question	Did you like Schwarzenegger as governor of California?
+Anwser1	I loved it.	0.444	Q
+Anwser2	I did like him.	0.444	Q
+Anwser3	I thought it was funny.	0.429	Q
+Anwser4	She loved it.	0.429	Q
+Anwser5	Yes.	0.429	Q

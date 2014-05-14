@@ -1,0 +1,6 @@
+Question	Do you only know stuff about the oscars? Can I ask you questions on random topics?
+Anwser1	It's fun.	0.353	Q
+Anwser2	Yes.	0.316	Q
+Anwser3	Very rarely.	0.300	Q
+Anwser4	Mm-hmm.	0.286	Q
+Anwser5	No.	0.286	Q

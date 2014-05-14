@@ -1,0 +1,6 @@
+Question	Do you know the director of the movie xxx?
+Anwser1	Mm-hmm.	0.444	Q
+Anwser2	No.	0.444	Q
+Anwser3	I don't know him.	0.444	Q
+Anwser4	I do know him.	0.444	Q
+Anwser5	For example, yes, absolutely.	0.444	Q

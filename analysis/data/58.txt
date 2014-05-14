@@ -1,0 +1,6 @@
+Question	Whats your opinion on Leonardo DiCaprio missing out on the oscar?
+Anwser1	No.	0.300	Q
+Anwser2	No, I don't think you're missing anything at all.	0.273	Q
+Anwser3	They do it every time.	0.273	Q
+Anwser4	Yes, I haven't talked to Jennifer in a long time.	0.250	Q
+Anwser5	No, I don't at all.	0.250	Q

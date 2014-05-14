@@ -1,0 +1,6 @@
+Question	How long is the movie Wolf of Wall Street?
+Anwser1	Yeah.	0.375	Q
+Anwser2	His movie career.	0.333	A
+Anwser3	She came to Wall Street and she sang for the Sarah Ferguson Foundation.	0.316	A
+Anwser4	I think what you realized about Wall Street is these people are professional traders.	0.300	A
+Anwser5	Yes, Wolf Parkinson White.	0.300	A

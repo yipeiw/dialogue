@@ -1,0 +1,6 @@
+Question	Which movie is the Best Picture in the th Academy Awards?
+Anwser1	My best buddy on the court is Ruth Bader Ginsburg, has always been.	0.333	Q
+Anwser2	Best advice.	0.333	A
+Anwser3	His movie career.	0.300	A
+Anwser4	I'm a movie maker.	0.273	A
+Anwser5	Well, look, I'm not trying to go for any Academy Awards on the acting side.	0.273	A

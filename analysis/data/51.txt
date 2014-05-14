@@ -1,0 +1,6 @@
+Question	How many hate clubs do you have?
+Anwser1	A few.	0.250	Q
+Anwser2	Well, I've had like five major relationships.	0.250	Q
+Anwser3	Sixteen.	0.214	Q
+Anwser4	I don't know.	0.200	Q
+Anwser5	It's 50-50.	0.194	Q

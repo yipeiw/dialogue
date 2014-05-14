@@ -1,0 +1,6 @@
+Question	What is the IMDB rating of Wolf of Wall Street?
+Anwser1	Yeah.	0.375	Q
+Anwser2	I think what you realized about Wall Street is these people are professional traders.	0.350	A
+Anwser3	She came to Wall Street and she sang for the Sarah Ferguson Foundation.	0.316	A
+Anwser4	Yes, Wolf Parkinson White.	0.300	A
+Anwser5	Well, certainly the Wall Street Journal and the New York Post just the big two.	0.286	A

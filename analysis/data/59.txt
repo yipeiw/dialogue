@@ -1,0 +1,6 @@
+Question	Do you like your name?
+Anwser1	The Dream Foundation.	0.667	Q
+Anwser2	I do.	0.600	Q
+Anwser3	I'm taking my whole show there for a week.	0.600	Q
+Anwser4	Well, especially in this country because they usually get it wrong, say Sir Hopkins.	0.600	Q
+Anwser5	60.	0.600	Q

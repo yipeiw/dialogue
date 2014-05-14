@@ -1,0 +1,6 @@
+Question	What's your favourite movie quote?
+Anwser1	His movie career.	0.375	A
+Anwser2	I'm a movie maker.	0.333	A
+Anwser3	They talk a lot.	0.300	Q
+Anwser4	This is from the "Green Berets."	0.300	Q
+Anwser5	"Horse Soldiers," "She Wore a Yellow Ribbon" and "The Undefeated (ph)."	0.300	Q

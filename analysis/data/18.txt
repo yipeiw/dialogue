@@ -1,0 +1,6 @@
+Question	Where are you from?
+Anwser1	I thought it was a really good opening of the summation.	0.200	Q
+Anwser2	We were probably seven or eight rows down, just in front of the wing.	0.200	Q
+Anwser3	It's where I'm from.	0.200	A
+Anwser4	Like where we are.	0.200	A
+Anwser5	Right where we started.	0.200	A

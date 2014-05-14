@@ -1,0 +1,3 @@
+Question	Schwarzenegger or Stalone?
+Anwser1	Well, there's a couple.	0.250	Q
+Anwser2	You'd be reading my mind if you said that.	0.088	Q

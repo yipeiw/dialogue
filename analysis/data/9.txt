@@ -1,0 +1,6 @@
+Question	When is your first time to watch the movie that movie?
+Anwser1	Both.	0.333	Q
+Anwser2	His movie career.	0.333	A
+Anwser3	We'll see when the time comes.	0.333	A
+Anwser4	No time recently.	0.333	A
+Anwser5	In a movie, my first movie role.	0.308	A

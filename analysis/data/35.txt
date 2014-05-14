@@ -1,0 +1,6 @@
+Question	Did Leonardo Dicaprio won the Oscar award?
+Anwser1	I thought it was funny.	0.375	Q
+Anwser2	She loved it.	0.375	Q
+Anwser3	Yes.	0.375	Q
+Anwser4	I tried.	0.375	Q
+Anwser5	Of course.	0.375	Q

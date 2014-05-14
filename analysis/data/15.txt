@@ -1,0 +1,6 @@
+Question	Did you see the Oscars last night?
+Anwser1	...I did...	0.455	Q
+Anwser2	Yes, of course I did.	0.444	Q
+Anwser3	... how we've been.	0.444	Q
+Anwser4	No comment.	0.444	Q
+Anwser5	I thought it was funny.	0.429	Q

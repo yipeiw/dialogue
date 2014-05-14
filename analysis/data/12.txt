@@ -1,0 +1,6 @@
+Question	How are you?
+Anwser1	Until the flower guy said, you know, she leaves a note, just leave it.	0.250	Q
+Anwser2	I don't know.	0.250	Q
+Anwser3	Probably between four and six hours.	0.250	Q
+Anwser4	500.	0.250	Q
+Anwser5	50.	0.250	Q

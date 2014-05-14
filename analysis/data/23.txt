@@ -1,0 +1,6 @@
+Question	Matthew McConaughey won an oscar this year, have you seen his other movies?
+Anwser1	Forty year ride, 40 year motorcycles.	0.429	A
+Anwser2	Well, first of all I have a 15 year old and an eight year old.	0.261	A
+Anwser3	A year before that.	0.250	Q
+Anwser4	Oh.	0.250	Q
+Anwser5	Over a year now.	0.250	A

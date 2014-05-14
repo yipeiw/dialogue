@@ -1,0 +1,6 @@
+Question	Have you watched  years a slave?
+Anwser1	No.	0.500	Q
+Anwser2	Yes.	0.500	Q
+Anwser3	Oh, yes.	0.500	Q
+Anwser4	That's right.	0.500	Q
+Anwser5	Apparently.	0.500	Q

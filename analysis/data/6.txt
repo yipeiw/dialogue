@@ -1,0 +1,6 @@
+Question	How is your childhood?
+Anwser1	Well, I still think it goes back to his childhood trauma.	0.231	A
+Anwser2	I think it all depends upon what your early childhood was like.	0.214	A
+Anwser3	Until the flower guy said, you know, she leaves a note, just leave it.	0.200	Q
+Anwser4	I don't know.	0.200	Q
+Anwser5	Probably between four and six hours.	0.200	Q

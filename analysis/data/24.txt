@@ -1,0 +1,6 @@
+Question	Did you like the Godfather?
+Anwser1	I thought it was funny.	0.600	Q
+Anwser2	She loved it.	0.600	Q
+Anwser3	Yes.	0.600	Q
+Anwser4	I tried.	0.600	Q
+Anwser5	Of course.	0.600	Q

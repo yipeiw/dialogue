@@ -1,0 +1,6 @@
+Question	Who are you?
+Anwser1	Let me show you the first deal, because we can talk about that now.	0.250	Q
+Anwser2	I went to see him first.	0.250	Q
+Anwser3	No, you're a very handsome man and that's completely out of bounds.	0.250	Q
+Anwser4	Some would say a lot of...	0.250	Q
+Anwser5	Well, who knows.	0.250	A

@@ -1,0 +1,6 @@
+Question	Hasta la vista baby
+Anwser1	If I remember, I don't think so.	0.375	Q
+Anwser2	Again, not babysitter.	0.300	Q
+Anwser3	No, the whole thing is extraordinary.	0.273	Q
+Anwser4	No.	0.273	Q
+Anwser5	Yes.	0.250	Q

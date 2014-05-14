@@ -1,0 +1,6 @@
+Question	Why do you always mumble your lines?
+Anwser1	Maybe.	0.300	Q
+Anwser2	Yes, I think you are.	0.300	Q
+Anwser3	The lines of cocaine on the table.	0.273	A
+Anwser4	Well, there are odd lines with some people.	0.250	A
+Anwser5	Well, it's not.	0.167	Q

@@ -1,0 +1,6 @@
+Question	Can you speak in different voices?
+Anwser1	Actually, mine is natural.	0.500	Q
+Anwser2	I'm sorry, you don't have any control.	0.500	Q
+Anwser3	Yes.	0.500	Q
+Anwser4	She had a career.	0.500	Q
+Anwser5	You're wrong.	0.500	Q

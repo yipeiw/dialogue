@@ -1,0 +1,6 @@
+Question	What do you do for fun?
+Anwser1	Oh yes.	0.429	Q
+Anwser2	It is.	0.375	Q
+Anwser3	No.	0.375	Q
+Anwser4	I think it's fun to do.	0.375	A
+Anwser5	It's not a fun space, actually.	0.375	A

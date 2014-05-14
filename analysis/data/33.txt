@@ -1,0 +1,6 @@
+Question	How long did Jordan Belfort spend in jail?
+Anwser1	I did a couple of the love scenes.	0.462	Q
+Anwser2	A lot of cards were played.	0.462	Q
+Anwser3	I said yes.	0.438	Q
+Anwser4	No, no.	0.429	Q
+Anwser5	I couldn't understand why.	0.400	Q

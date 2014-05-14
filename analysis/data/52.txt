@@ -1,0 +1,6 @@
+Question	What did you think of the oscars?
+Anwser1	I think that is part of it.	0.250	Q
+Anwser2	Yes, but you've done a lot, that's the point.	0.250	Q
+Anwser3	Because somebody's got a gun.	0.222	Q
+Anwser4	I think it's what we are.	0.222	A
+Anwser5	Look, I'm disgusted with both sides.	0.200	Q

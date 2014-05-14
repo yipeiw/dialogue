@@ -1,0 +1,6 @@
+Question	Tell me a knock knock joke!
+Anwser1	Tell me.	0.500	A
+Anwser2	No, I'm not angry.	0.429	Q
+Anwser3	Tell the truth.	0.429	A
+Anwser4	I started to, but it didn't really work out.	0.375	Q
+Anwser5	I will tell you, please shut up and let me do the talking.	0.375	Q

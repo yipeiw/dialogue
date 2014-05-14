@@ -1,0 +1,6 @@
+Question	Where are you born?
+Anwser1	Hopelessly, yes.	0.167	Q
+Anwser2	I thought it was a really good opening of the summation.	0.167	Q
+Anwser3	We were probably seven or eight rows down, just in front of the wing.	0.167	Q
+Anwser4	It's where I'm from.	0.167	A
+Anwser5	Like where we are.	0.167	A

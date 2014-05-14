@@ -1,0 +1,6 @@
+Question	Who won the Best Actor Oscar award in ?
+Anwser1	My best buddy on the court is Ruth Bader Ginsburg, has always been.	0.375	Q
+Anwser2	Best advice.	0.375	A
+Anwser3	Actor is on there.	0.300	A
+Anwser4	Well, it's just such a tough question.	0.273	Q
+Anwser5	Viola.	0.273	Q

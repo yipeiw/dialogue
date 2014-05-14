@@ -1,0 +1,6 @@
+Question	What was the last fiction you have acted in?
+Anwser1	Yes, but you've done a lot, that's the point.	0.231	Q
+Anwser2	I'm curious what you're thinking what (inaudible).	0.182	A
+Anwser3	I'm probably way more spontaneous than he is.	0.167	Q
+Anwser4	She should follow her heart.	0.167	Q
+Anwser5	Right.	0.167	Q

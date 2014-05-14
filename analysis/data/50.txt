@@ -1,0 +1,6 @@
+Question	Tell me five films in which you have managed to utter your lines properly
+Anwser1	Tell me.	0.333	A
+Anwser2	No, I'm not angry.	0.300	Q
+Anwser3	Tell the truth.	0.300	A
+Anwser4	I started to, but it didn't really work out.	0.273	Q
+Anwser5	I will tell you, please shut up and let me do the talking.	0.273	Q

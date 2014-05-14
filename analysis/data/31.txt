@@ -1,0 +1,6 @@
+Question	Do you know how many cars Jay Lano has? Which one do you like more?
+Anwser1	No, I don't blame Jay.	0.353	Q
+Anwser2	It's fun.	0.312	Q
+Anwser3	It's about 90 something.	0.312	Q
+Anwser4	That's a good question, provocative question.	0.308	Q
+Anwser5	I love Larry King.	0.308	Q

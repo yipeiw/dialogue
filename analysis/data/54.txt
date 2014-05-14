@@ -1,0 +1,6 @@
+Question	Do you think Matthew McConaughey deserved the oscar?
+Anwser1	Yes.	0.400	Q
+Anwser2	Well, not entirely.	0.400	Q
+Anwser3	Well, I'm only 11.	0.400	Q
+Anwser4	I just think I'm a hard habit to break.	0.400	Q
+Anwser5	Well, I don't think it's the first time she's definitely going to run.	0.400	Q

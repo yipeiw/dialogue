@@ -1,0 +1,6 @@
+Question	What kind of movies do you like?
+Anwser1	I never had the desire to get to know him personally or very closely.	0.467	Q
+Anwser2	Yes.	0.429	Q
+Anwser3	Yes, kind of.	0.429	A
+Anwser4	British humor.	0.375	Q
+Anwser5	Smashed up face, nose, smashed teeth, ripped shoulder, mouth, lips, eyes.	0.375	Q

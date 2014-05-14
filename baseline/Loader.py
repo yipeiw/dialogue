@@ -3,12 +3,13 @@
 import nltk
 from collections import defaultdict
 import json
+import os.path as path
 
 def LoadLanguageResource():
         WeightRules=defaultdict(int)
         nounlist = ['NN', 'NNS', 'NNP', 'NNPS']
         for noun in nounlist:
-                WeightRules[noun] = 3;
+                WeightRules[noun] = 3
 
         stop_dict=defaultdict(bool)
         for word in nltk.corpus.stopwords.words('english'):
@@ -57,4 +58,14 @@ def PushDataPair(data, database):
                 database['A'][last] = pair['answer'].split()
                 last += 1
         return database
+
+def LoadTemplate(filelist):
+	Library = {}
+	for filepath in filelist:
+		name = path.splitext(path.basename(filepath))[0]	
+		Library[name] = [line.strip() for line in open(filepath)]
+	return Library
+
+def LoadTopic(topicfile):
+	return [line.strip() for line in open(topicfile)]
 

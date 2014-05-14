@@ -1,0 +1,6 @@
+Question	Why do you even think that you stand any chance at oscars?
+Anwser1	I think we have a real chance of winning this.	0.250	A
+Anwser2	I don't think she has any chance of being acquitted.	0.250	A
+Anwser3	I think they'll be given the chance to talk to him.	0.235	A
+Anwser4	I cannot speak for Maria.	0.211	Q
+Anwser5	Not much of a chance.	0.200	Q

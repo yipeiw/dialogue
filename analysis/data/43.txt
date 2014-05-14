@@ -1,0 +1,6 @@
+Question	Don’t you think your role is too insignificant in your upcoming movie?
+Anwser1	His movie career.	0.333	A
+Anwser2	I'm a movie maker.	0.300	A
+Anwser3	They talk a lot.	0.273	Q
+Anwser4	This is from the "Green Berets."	0.273	Q
+Anwser5	"Horse Soldiers," "She Wore a Yellow Ribbon" and "The Undefeated (ph)."	0.273	Q

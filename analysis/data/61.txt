@@ -1,0 +1,6 @@
+Question	I'm bored. Tell me something interesting!
+Anwser1	Well, usually when I play matches, yes, the match is in my hands.	0.400	Q
+Anwser2	Tell me.	0.375	A
+Anwser3	No, I'm not angry.	0.333	Q
+Anwser4	Say something nice.	0.333	A
+Anwser5	Tell the truth.	0.333	A

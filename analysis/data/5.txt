@@ -1,0 +1,6 @@
+Question	It is nice to talk with you today!
+Anwser1	... have died, yeah, as of right now, 26 people died since the shutdown, started.	0.364	Q
+Anwser2	No, not today I'm not.	0.333	A
+Anwser3	Well, today was fascinating, Piers.	0.333	A
+Anwser4	I'm still mad today about that.	0.300	A
+Anwser5	Well, exactly right.	0.250	Q

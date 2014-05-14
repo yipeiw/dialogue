@@ -1,0 +1,6 @@
+Question	Who is the director of  Years a Slave?
+Anwser1	Yes.	0.500	Q
+Anwser2	I really live for that night.	0.200	Q
+Anwser3	When he actually kissed me, the director says, cut, cut, cut.	0.200	A
+Anwser4	I went to see him first.	0.182	Q
+Anwser5	There are those who argue that, who believes that.	0.154	A

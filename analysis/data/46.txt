@@ -1,0 +1,6 @@
+Question	Are you looking for alternative occupations?
+Anwser1	Yes.	0.500	Q
+Anwser2	I am, but I'm five feet tall.	0.500	Q
+Anwser3	Kim is.	0.500	Q
+Anwser4	No.	0.500	Q
+Anwser5	I think so.	0.500	Q

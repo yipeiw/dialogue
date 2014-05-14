@@ -1,0 +1,6 @@
+Question	What did President Obama do with the Crimea crisis?
+Anwser1	President Obama knows this.	0.667	A
+Anwser2	I think we should give him another chance.	0.600	Q
+Anwser3	It's astonishing what President Obama did today.	0.583	A
+Anwser4	Well, I'm very fond of the president personally.	0.500	Q
+Anwser5	President Obama has decided to attack success.	0.500	A

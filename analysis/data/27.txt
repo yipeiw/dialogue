@@ -1,0 +1,6 @@
+Question	What's your favourite character?
+Anwser1	The character would tongue-kiss.	0.375	A
+Anwser2	Yes, I mean it is a little bit like that.	0.250	Q
+Anwser3	I don't think he's going to run.	0.231	Q
+Anwser4	Yes, but you've done a lot, that's the point.	0.231	Q
+Anwser5	I'm not sure any part of it.	0.200	Q

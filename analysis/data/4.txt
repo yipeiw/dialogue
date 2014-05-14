@@ -1,0 +1,6 @@
+Question	How many movies have you ever watched?
+Anwser1	Somehow it's gone out of my mind.	0.273	Q
+Anwser2	I don't have the number right off hand.	0.231	Q
+Anwser3	I'm a guy making movies for 9,000 dollars.	0.231	A
+Anwser4	A few.	0.222	Q
+Anwser5	Well, I've had like five major relationships.	0.222	Q

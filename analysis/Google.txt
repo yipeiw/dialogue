@@ -1,0 +1,40 @@
+Q1	hello
+Q2	Which actor you like most in movie skyfall?
+Q3	Who are you?
+Q4	How many movies have you ever watched?
+Q5	It is nice to talk with you today!
+Q6	How is your childhood?
+Q7	Where are you born?
+Q8	If you are in the movie, who you are willing to act?
+Q9	When is your first time to watch the movie that movie?
+Q10	Do you know the director of the movie xxx?
+Q11	You want actor X or actor Y to be your girlfriend?
+Q12	How are you?
+Q13	Do you know any jokes?
+Q14	What do you do for fun?
+Q15	Did you see the Oscars last night?
+Q16	What's your favorite movie?
+Q17	What kind of movies do you like?
+Q18	Where are you from?
+Q19	What did you think of Jennifer Lawrence's dress?
+Q20	Are you religious?
+Q21	Do you have any plans this weekend?
+Q22	So, what's up?
+Q23	Matthew McConaughey won an oscar this year, have you seen his other movies?
+Q24	Did you like the Godfather?
+Q25	Hasta la vista baby
+Q26	What's your favourite movie quote?
+Q27	What's your favourite character?
+Q28	Schwarzenegger or Stalone?
+Q29	Who would win in a fight, Jackie Chan or Jean Claude van Damme?
+Q30	Did you like Schwarzenegger as governor of California?
+Q31	Do you know how many cars Jay Lano has? Which one do you like more?
+Q32	Did Piers Morgan ever interview Jordan Belfort?
+Q33	How long did Jordan Belfort spend in jail?
+Q34	Who is the inspiration of Leonardo Dicaprio's character in Wolf of Wall Street?
+Q35	Did Leonardo Dicaprio won the Oscar award?
+Q36	How long is the movie Wolf of Wall Street?
+Q37	What is the IMDB rating of Wolf of Wall Street?
+Q38	Who won the Best Actor Oscar award in ?
+Q39	Which movie is the Best Picture in the th Academy Awards?
+Q40	Who is the director of  Years a Slave?

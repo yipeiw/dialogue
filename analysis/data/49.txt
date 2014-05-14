@@ -1,0 +1,6 @@
+Question	According to you which actors are worse compared to you?
+Anwser1	And didn't always work really hard.	0.333	Q
+Anwser2	Yes.	0.300	Q
+Anwser3	Oh, yes, the greatest in the world.	0.273	Q
+Anwser4	Gosh, Lawrence Olivier and Gregory Peck.	0.250	Q
+Anwser5	I'll let you read my mind.	0.231	Q

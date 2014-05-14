@@ -1,0 +1,6 @@
+Question	What did you think of Jennifer Lawrence's dress?
+Anwser1	Jennifer Lawrence that would be nice.	0.500	A
+Anwser2	Yes, I haven't talked to Jennifer in a long time.	0.250	Q
+Anwser3	Gosh, Lawrence Olivier and Gregory Peck.	0.250	A
+Anwser4	I like the dress very much.	0.250	A
+Anwser5	They're terrific.	0.231	Q
