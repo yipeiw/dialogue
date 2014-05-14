@@ -20,6 +20,10 @@ text input-output system
   <br>code: baseline/NLG.py</br>
   <br>The templates and topic words are in baseline/resouce</br>
 
+* Using Google API
+  <br>Python Wrapper for jar pacakge based on Google API, testing the result from Google API</br>
+  <br>code: analysis/Google.py</br>
+
 Algorithm details can be refered to the slides
 
 <b>Dependencies</b>
