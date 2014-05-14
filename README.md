@@ -3,26 +3,25 @@ dialogue project (2014 spring)
 <b>Pipeline for conversation strategy</b>
 
 text input-output system 
-baseline/Interface.py
+<br>baseline/Interface.py</br>
 
 * NLU component
   <br>code: baseline/Understander.py</br>
 * Retrival component
-  code: basedline/Retrieval.py
-  (reverse index can be used when database increased)
+  <br>code: basedline/Retrieval.py</br>
+  <br>(reverse index can be used when database increased)</br>
  
   The conversation databased we collected is here:
-  https://drive.google.com/file/d/0B7XJjU2\_aDgsTnVZM0FjbVk0UTQ/edit
+  <br>https://drive.google.com/file/d/0B7XJjU2\_aDgsTnVZM0FjbVk0UTQ/edit</br>
 
 * Dialogue Management component
-  code: baseline/Control.py
+  <br>code: baseline/Control.py</br>
 * NLG coponent
-  code: baseline/NLG.py
-  The templates and topic words are in baseline/resouce
+  <br>code: baseline/NLG.py</br>
+  <br>The templates and topic words are in baseline/resouce</br>
 
 Algorithm details can be refered to the slides
 
-Dependencies
-
-nltk http://www.nltk.org/
-Tkinter https://wiki.python.org/moin/TkInter
+<b>Dependencies</b>
+<br>nltk http://www.nltk.org/</br>
+<br>Tkinter https://wiki.python.org/moin/TkInter</br>
